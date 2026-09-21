@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="150" viewBox="0 0 680 150">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#9bea3c"/><stop offset="1" stop-color="#67c52a"/></linearGradient>
+ <filter id="s" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dy="8" stdDeviation="10" flood-opacity=".18"/></filter>
+</defs>
+<rect x="8" y="8" width="664" height="134" rx="22" fill="#111713" stroke="#27322a" stroke-width="2" filter="url(#s)"/>
+<circle cx="72" cy="75" r="36" fill="url(#g)"/>
+<path d="M72 52v37m-13-12 13 13 13-13M57 99h30" fill="none" stroke="#101610" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="130" y="69" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#fff">DOWNLOAD PULSEDECK</text>
+<text x="131" y="101" font-family="Arial,sans-serif" font-size="15" fill="#9eaaa1" letter-spacing="1.5">WINDOWS 10 / 11  •  OPEN SOURCE</text>
+<path d="M625 62l13 13-13 13" fill="none" stroke="#91df3c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
